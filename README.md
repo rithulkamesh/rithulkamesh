@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hello! Welcome To My Profile!
+```js
+const Myself = require("Rithul Kamesh")
+```
 
-<!--
-**rithulkamesh/rithulkamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What Am I learning!
 
-Here are some ideas to get you started:
+Here Is a List Of All the Languages I'm Learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+Language1 = "Python"
+Language2 = "JavaScript"
+
+languages = [Language1, Language2]
+
+print (languages)
+```
+
+#
