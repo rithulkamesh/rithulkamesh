@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome To My Profile!
 ```js
-const Myself = require("Rithul Kamesh")
+const Myself = require("Rithul Kamesh");
 ```
 
 ## What Am I learning!
