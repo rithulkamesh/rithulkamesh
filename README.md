@@ -11,6 +11,6 @@ I am a Node.js Enthusiast who is learning to code in Typescript and currently ;e
 - [ ] Matplotlib, Pandas
 - [ ] AI-ML
 - [ ] Data Handling (MongoDB and Firebase)
-- [ ] C++
+- [ ] C
 
 #
