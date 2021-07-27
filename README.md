@@ -11,10 +11,9 @@ I am a Node.js Enthusiast who is learning to code in Typescript and currently le
 ## My Bucket List:
 
 - [x] TypeScript
+- [x] AI-ML
 - [ ] Kotlin
 - [ ] Matplotlib, Pandas
-- [ ] AI-ML
-- [ ] Data Handling (MongoDB and Firebase)
-- [ ] C
+- [ ] C && C++
 
 #
