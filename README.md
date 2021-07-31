@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome To My Profile!
 
 <h3 align="center">
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=onedark" />
+ <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=onedark" />
 <br><br><br>
 
 </h3>
