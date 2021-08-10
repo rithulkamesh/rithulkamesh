@@ -7,7 +7,8 @@
 <h3 align="center">
  <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulkamesh&layout=compact&theme=onedark" />
 <br><br><br>
-()
+
+
 </h3>
 Hi! I Am Rithul Kamesh. I am a 15 year old 11th grader from India, Currently Studying in BGS National Public School.
 
