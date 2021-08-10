@@ -5,7 +5,7 @@
 <br><br><br>
 
 <h3 align="center">
- <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulkamesh&layout=compact&theme=onedark" />
+ <img width="25%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulkamesh&layout=compact&theme=onedark" />
 <br><br><br>
 
 
