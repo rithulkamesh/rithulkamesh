@@ -18,6 +18,5 @@ I am a Node.js Enthusiast who is learning to code in Typescript and currently le
 
 - [x] AI-ML (Thanks, Techroulette!)
 - [x] TypeScript (Thanks, JaegerPanel)
-- [ ] Kotlin
-- [ ] Matplotlib, Pandas
-- [ ] C && C++
+- [x] C++ (Dev Heaven, Highly Reccomended)
+- [ ] Raylib (In Progress)
