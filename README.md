@@ -20,3 +20,8 @@ I am a Node.js Enthusiast who is learning to code in Typescript and currently le
 - [x] TypeScript (Thanks, JaegerPanel)
 - [x] C++ (Dev Heaven, Highly Reccomended)
 - [ ] Raylib (In Progress)
+
+ ## My favourite Mixtapes:
+ 
+- [Lo-fi]( https://music.youtube.com/playlist?list=PL1jU4FFbs--cpeCIn0hyCErwT9aQIxnjd)
+ - [Anime](https://music.youtube.com/playlist?list=PL1jU4FFbs--fM-InNOQ5dQZjSozuU4zLD)
