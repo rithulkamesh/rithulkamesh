@@ -1,27 +1,55 @@
 # 👋 Hello! Welcome To My Profile!
 
-<h3 align="center">
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=onedark" />
-<br><br><br>
 
-<h3 align="center">
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulkamesh&layout=compact&theme=onedark" />
-<br><br><br>
+<div align="center" class="shadow-pop-br">
+    <img width="15%" src="https://avatars.githubusercontent.com/u/45348760?v=4">
+</div>
 
 
-</h3>
-Hi! I Am Rithul Kamesh. I am a 15 year old 11th grader from India, Currently Studying in BGS National Public School.
+Hi! I Am Rithul Kamesh. A Student-Developer based in India!
 
-I am a Node.js Enthusiast who is learning to code in Typescript and currently learning ML-DS, I have a lot of interest in AI and in Aeronautical Engineering. I'm also making my own and unique website with Three.js and Next.js to make a good impression to those who look at my website. I am also a fan of open source and Love creating open source projects a lot.
+I am a 15 year-old 11th grader. Currently Studying in BGS National Public School, I discovered and fell in love with Node.js around the early 2020s. My future interests are in Aeronautical Engineering and Aritficial Intelligence. I ❤️ open source and create open source projects a lot too.
 
-## My Bucket List
+<style>
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
 
-- [x] AI-ML (Thanks, Techroulette!)
-- [x] TypeScript (Thanks, JaegerPanel)
-- [x] C++ (Dev Heaven, Highly Reccomended)
-- [ ] Raylib (In Progress)
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+.shadow-pop-br {
+	-webkit-animation: shadow-pop-br 0.4s cubic-bezier(0.470, 0.000, 0.745, 0.715) forwards;
+	        animation: shadow-pop-br 0.4s cubic-bezier(0.470, 0.000, 0.745, 0.715) forwards;
+}
+</style>
 
- ## My favourite Mixtapes:
+
+<div align="center" class="row">
+  <div class="column">
+ <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=onedark" />
+ </div>
+  <div class="column">
+ <img width="99%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulkamesh&layout=compact&theme=onedark" />
+ </div>
+ <dic align="center" class="row">
+
+ ![trophy](https://github-profile-trophy.vercel.app/?username=rithulkamesh&theme=onedark&column=7)
+
+ </div>
+</div>
+
+
+## My favourite Mixtapes:
  
 - [Lo-fi]( https://music.youtube.com/playlist?list=PL1jU4FFbs--cpeCIn0hyCErwT9aQIxnjd)
- - [Anime](https://music.youtube.com/playlist?list=PL1jU4FFbs--fM-InNOQ5dQZjSozuU4zLD)
+- [Anime](https://music.youtube.com/playlist?list=PL1jU4FFbs--fM-InNOQ5dQZjSozuU4zLD)
