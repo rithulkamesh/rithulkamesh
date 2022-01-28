@@ -1,5 +1,3 @@
-# 👋 Hello! Welcome To My Profile!
-
 ```json
 {
     "name": "Rithul Kamesh",
