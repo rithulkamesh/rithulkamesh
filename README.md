@@ -1,19 +1,55 @@
 # 👋 Hello! Welcome To My Profile!
 
-
-Hi! I Am Rithul Kamesh. A Student-Developer based in India!
-
-I am a 15 year-old 11th grader. Currently Studying in BGS National Public School, I discovered and fell in love with Node.js around the early 2020s. My future interests are in Aeronautical Engineering and Aritficial Intelligence. I ❤️ open source and create open source projects a lot too.
-
-Also, My [website](https://rithulk.me) is pretty cool haha! Check that out too!
+```json
+{
+    "name": "Rithul Kamesh",
+    "title": "Full Stack Developer / Student / Game Designer / Musician",
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "React",
+        "NextJS",
+        "ChakraUI",
+        "TailwindCSS",
+        "Firebase",
+        "Figma",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Python",
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "Ruby On Rails",
+        "Final Cut Pro",
+        "Logic Pro X",
+        "Godot",
+        "GDScript"
+    ],
+    "what_i_am_learning": [
+        "Rust",
+        "Golang",
+        "Swift and SwiftUI",
+        "Kotlin"
+    ],
+    "socials": {
+        "github": "github.com/rithulkamesh",
+        "dribbble": "dribbble.com/rithulkamesh",
+        "linkedin": "linkedin.com/in/rithul-kamesh-7a28a3220/",
+        "twitter": "twitter.com/rithulkamesh",
+        "youtube": "youtube.com/channel/UCZ8Z0pCecX9WVX7dYERU_oA"
+    }
+}
+```
 
 <div align="center">
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=rithulkamesh&theme=onedark&column=7)
 
- </div>
-
-## My favourite Mixtapes:
- 
-- [Lo-fi]( https://music.youtube.com/playlist?list=PL1jU4FFbs--cpeCIn0hyCErwT9aQIxnjd)
-- [Anime](https://music.youtube.com/playlist?list=PL1jU4FFbs--fM-InNOQ5dQZjSozuU4zLD)
+![Rithul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=tokyonight)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=rithulkamesh&theme=tokyonight&column=7)
+</div>
