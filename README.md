@@ -17,7 +17,6 @@ pub fn main() -> Myself {
         .to_string(),
         socials: vec![
             "https://twitter.com/rithulkamesh",
-            "https://instagram.com/rithulkamesh",
             "https://polywork.com/rithul"
         ],
         website: "https://rithul.dev".to_string()
