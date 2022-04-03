@@ -1,53 +1,26 @@
-```json
-{
-    "name": "Rithul Kamesh",
-    "title": "Full Stack Developer / Student / Game Designer / Musician",
-    "skills": [
-        "JavaScript",
-        "TypeScript",
-        "Node.js",
-        "HTML",
-        "CSS",
-        "SCSS",
-        "React",
-        "NextJS",
-        "ChakraUI",
-        "TailwindCSS",
-        "Firebase",
-        "Figma",
-        "MongoDB",
-        "PostgreSQL",
-        "MySQL",
-        "Python",
-        "C",
-        "C++",
-        "C#",
-        "Java",
-        "Ruby On Rails",
-        "Final Cut Pro",
-        "Logic Pro X",
-        "Godot",
-        "GDScript"
-    ],
-    "what_i_am_learning": [
-        "Rust",
-        "Golang",
-        "Swift and SwiftUI",
-        "Kotlin"
-    ],
-    "socials": {
-        "github": "github.com/rithulkamesh",
-        "dribbble": "dribbble.com/rithulkamesh",
-        "linkedin": "linkedin.com/in/rithul-kamesh-7a28a3220/",
-        "twitter": "twitter.com/rithulkamesh",
-        "youtube": "youtube.com/channel/UCZ8Z0pCecX9WVX7dYERU_oA"
+```rs
+struct Myself {
+    name: String,
+    age: u8,
+    bio : String,
+    socials : Vec<String>,
+    website: String
+}
+
+pub fn main() -> Myself {
+    Myself {
+        name: "Rithul Kamesh".to_string(),
+        age: 16,
+        bio: r#"
+        👋 Hey There! I'm Rithul, a 16 year old Student and Developer who loves everything Rust and Node.js, Currently, I'm building a suite of productivity apps with both of them! Me also learning Flutter to port them to mobile! I think that programming is awesome and I love to code/program a ton! Aside from that, I am a huge weeb and an avid manga reader.
+        "#
+        .to_string(),
+        socials: vec![
+            "https://twitter.com/rithulkamesh",
+            "https://instagram.com/rithulkamesh",
+            "https://polywork.com/rithul"
+        ],
+        website: "https://rithul.dev".to_string()
     }
 }
 ```
-
-<div align="center">
-
-
-![Rithul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithulkamesh&show_icons=true&theme=tokyonight)
- ![trophy](https://github-profile-trophy.vercel.app/?username=rithulkamesh&theme=tokyonight&column=7)
-</div>
