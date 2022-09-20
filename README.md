@@ -2,12 +2,12 @@
 struct Myself {
     name: String,
     age: u8,
-    bio : String,
-    socials : Vec<String>,
-    website: String
+    bio: String,
+    socials: Vec<String>,
+    website: String,
 }
 
-pub fn main() -> Myself {
+fn about_me() -> Myself {
     Myself {
         name: "Rithul Kamesh".to_string(),
         age: 16,
@@ -16,8 +16,8 @@ pub fn main() -> Myself {
         "#
         .to_string(),
         socials: vec![
-            "https://twitter.com/rithulkamesh",
-            "https://polywork.com/rithul"
+            String::from("https://twitter.com/rithulkamesh"),
+            String::from("https://polywork.com/rithul")
         ],
         website: "https://rithul.dev".to_string()
     }
