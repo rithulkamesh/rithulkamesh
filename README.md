@@ -16,7 +16,7 @@ fn about_me() -> Myself {
         I think that programming is awesome and I love to code/program a ton! Aside from that, I'm building a game
         with godot just to have fun!
         "#,
-        socials: "https://bento.me/rithul"
+        socials: "https://bento.me/rithul",
         website: "https://rithul.dev"
     }
 }
